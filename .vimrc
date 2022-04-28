@@ -1,4 +1,4 @@
-syntax on
+ syntax on
 
 set ignorecase
 set smartcase
