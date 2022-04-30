@@ -159,6 +159,9 @@
                 colorscheme iceberg
                 "Applys my theme from the iceberg Vundle Plugin"
                 "Shortcut for editing .vimrc"
+
+                let g:airline_theme='<base16_vim (|airline-theme-base16_vim|)>'
+                "Sets theme for airline"
 "--------------------------------------------------------------Visual Set Begin"
 
 
